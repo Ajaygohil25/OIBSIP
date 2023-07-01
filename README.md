@@ -1,5 +1,4 @@
 # OIBSIP
-This is repository for submission task of OSIS INFOBYTE's internship
-There is two project in this repository.
+In this repository, Projects of My Virtual internship at OASIS INFOBYTE.
 1) Online Examination System
 2) Number Guess Game
